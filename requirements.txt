@@ -1,0 +1,4 @@
+# Zero external runtime dependencies required — uses Python 3.10+ standard library (asyncio, ipaddress, json).
+# Optional dev/testing tools:
+pytest>=8.0.0
+ruff>=0.6.0
