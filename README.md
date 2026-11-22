@@ -1,5 +1,9 @@
 # Async Subnet Health & Port Latency Monitor
 
+[![CI](https://github.com/Shivam-kumar-92/async-subnet-monitor/actions/workflows/ci.yml/badge.svg)](https://github.com/Shivam-kumar-92/async-subnet-monitor/actions/workflows/ci.yml)
+![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)
+![Dependencies](https://img.shields.io/badge/dependencies-zero%20(stdlib)-brightgreen)
+
 > High-concurrency Python `asyncio` network automation tool for automated CIDR subnet health sweeps, TCP port latency monitoring, and structured JSON telemetry export.
 
 ---
